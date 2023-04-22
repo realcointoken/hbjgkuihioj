@@ -76,7 +76,7 @@ export default () => {
             dependencies?.['@connext/sdk'] &&
             (
               <a
-                href="https://github.com/connext/monorepo"
+                href="https://github.com/XChain"
                 target="_blank"
                 rel="noopener noreferrer"
               >
