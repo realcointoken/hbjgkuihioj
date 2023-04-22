@@ -69,7 +69,7 @@ export default () => {
               </div>
             </div>
             <span>
-              Connext Protocol
+              XChain Protocol
             </span>
           </a>
           {
