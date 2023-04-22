@@ -32,7 +32,7 @@ const menus = [
       },
       process.env.NEXT_PUBLIC_CONNEXT_GITHUB_URL &&
       {
-        title: 'Connext GitHub',
+        title: 'XChain GitHub',
         url: process.env.NEXT_PUBLIC_CONNEXT_GITHUB_URL,
         icon: (
           <BsGithub
@@ -57,7 +57,7 @@ const menus = [
   },
   process.env.NEXT_PUBLIC_PROTOCOL_URL &&
   {
-    title: 'About Connext',
+    title: 'About XChain',
     url: process.env.NEXT_PUBLIC_PROTOCOL_URL,
     icon: (
       <Image
