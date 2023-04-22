@@ -1,7 +1,7 @@
 {
-  "name": "connext-bridge",
+  "name": "XChain-bridge",
   "version": "0.0.1",
-  "description": "UI of Connext Bridge",
+  "description": "UI of XChain",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CoinHippo-Labs/connext-bridge.git"
+    "url": "git+https://github.com/Xchain-Labs/xchain-bridge.git"
   },
-  "author": "CoinHippo",
+  "author": "XChain",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CoinHippo-Labs/connext-bridge/issues"
+    "url": "https://github.com/xchain"
   },
-  "homepage": "https://github.com/CoinHippo-Labs/connext-bridge#readme",
+  "homepage": "https://github.com/xchain",
   "dependencies": {
     "@coinbase/wallet-sdk": "^3.6.5",
     "@connext/sdk": "2.0.3-alpha.0",
